@@ -26,7 +26,7 @@ select one or multiple tags and apply so, reflect tags on which select customer.
 
     ],
 
-    'images': ['images/OdooHelper.png'],
+    'images': ['images/OdooHelper.jpg'],
 
     'price': 11.17,
     'currency': 'USD',
